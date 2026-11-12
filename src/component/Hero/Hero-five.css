@@ -1,0 +1,20 @@
+#hero-five{
+    .container{
+        .Hero-five{
+            .rod{
+                display: flex;
+                justify-content: center;
+                padding-top: 100px;
+                gap: 50px;
+                .img{
+                    width: 399px;
+                    height: 492px;
+                }
+                .p{
+                    color: whitesmoke;
+                    padding-top: 200px;
+                }
+            }
+        }
+    }
+}

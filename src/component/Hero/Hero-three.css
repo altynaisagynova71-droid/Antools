@@ -1,0 +1,40 @@
+#hero-three{
+    .container{
+        .Hero-three{
+            .text{
+                padding-top: 100px;
+                .one{
+                    text-align: center;
+                    color: whitesmoke;
+                    background-color: #2C353D33;
+
+                }
+                .google{
+                    padding-top: 30px;
+                    display: flex;
+                    justify-content: space-between;
+                    .mic{
+                        width: 193px;
+                        height: 42px;
+                    }
+                    .googl{
+                        width: 157px;
+                        height: 51px;
+
+                    }
+                    .slac{
+                        width: 194px;
+                        height: 49px;
+                    }
+                    .word{
+                        width: 194px;
+                        height: 44px;
+                    }
+                }
+
+
+            }
+
+        }
+    }
+}

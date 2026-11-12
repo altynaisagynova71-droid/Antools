@@ -1,0 +1,43 @@
+#hero-two{
+    .container{
+        .Hero-two{
+            .most{
+                .button{
+                    display: flex;
+                    justify-content: center;
+                    button{
+                        border: none;
+                        border-radius: 5px;
+                        border: 1px solid rgb(74, 74, 74);
+                        color: orange;
+                        width: 184px;
+                        height: 64px;
+                    }
+                }
+                
+                margin-top: 100px;
+                .popular{
+                    color: white;
+                    text-align: center;
+                    p{
+                        padding-top: 30px;
+                    }
+
+                }
+                .figma{
+                    display: flex;
+                    justify-content: center;
+                    gap: 50px;
+                    padding-top: 30px;
+                }
+                .notion{
+                    display: flex;
+                    justify-content: center;
+                    gap: 50px;
+                    padding-top: 30px;
+
+                }
+            }
+        }
+    }
+}

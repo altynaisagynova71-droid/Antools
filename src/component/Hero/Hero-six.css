@@ -1,0 +1,38 @@
+#hero-six{
+    .container{
+        .Hero-six{
+            .rod{
+                color: whitesmoke;
+                padding-top: 100px;
+                h1{
+                    text-align: center;
+                }
+                p{
+                    text-align: center;
+                    padding-top: 20px;
+                }
+                .b{
+                    display: flex;
+                    justify-content: center;
+                    padding-top: 20px;
+                    button{
+                        border: none;
+                        width: 130px;
+                        height: 48px;
+                        background-color: orange;
+                        outline-color: whitesmoke;
+                        border-radius: 10px;
+
+                    }
+                    input{
+                        border: none;
+                        color: whitesmoke;
+                        background-color: #283036;
+                        border-radius: 10px;
+                        padding-left: 10px;
+                    }
+                }
+            }
+        }
+    }
+}

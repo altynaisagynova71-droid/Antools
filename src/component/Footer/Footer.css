@@ -1,0 +1,38 @@
+#footer{
+    .container{
+        .Footer{
+            .rod{
+                padding-top: 100px;
+                display: flex;
+                justify-content: space-between;
+                color: whitesmoke;
+                .an{
+                    h4{
+                        padding-top: 20px;
+
+                    }
+                    p{
+                        padding-top: 20px;
+                    }
+                
+
+                }
+                .con{
+                    p{
+                        padding-top: 20px;
+                    }
+                }
+                .cat{
+                    p{
+                        padding-top: 20px;
+                    }
+                }
+                .com{
+                    p{
+                        padding-top: 20px;
+                    }
+                }
+            }
+        }
+    }
+}
